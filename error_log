@@ -1,0 +1,82 @@
+[06-Jan-2021 10:09:47 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:09:47 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:09:47 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:10:07 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:10:07 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:10:07 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:10:20 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:10:20 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:10:20 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:17:35 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:17:35 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:17:35 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:18:30 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:18:30 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:18:30 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:20:30 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:20:30 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:20:30 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:21:54 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:21:54 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:21:54 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:22:02 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:22:02 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:22:02 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:22:31 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:22:31 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:22:31 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:24:47 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:24:47 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:24:47 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:25:16 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:25:16 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:25:16 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:26:21 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:26:21 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:26:21 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:27:34 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:27:34 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:27:34 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:38:09 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:38:09 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:38:09 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:38:22 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:38:22 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:38:22 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:43:31 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:43:31 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:43:31 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:43:59 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:43:59 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:43:59 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:48:15 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:48:15 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:48:15 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:48:59 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:48:59 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:48:59 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:57:19 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:57:19 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:57:19 Asia/Taipei] Request failed: 
+[06-Jan-2021 10:57:26 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:57:26 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 10:57:26 Asia/Taipei] Request failed: 
+[06-Jan-2021 11:01:11 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 11:01:11 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 11:01:11 Asia/Taipei] Request failed: 
+[06-Jan-2021 11:09:12 Asia/Taipei] Method not allowed
+[06-Jan-2021 11:10:02 Asia/Taipei] Method not allowed
+[06-Jan-2021 11:12:38 Asia/Taipei] Method not allowed
+[06-Jan-2021 11:12:46 Asia/Taipei] Method not allowed
+[06-Jan-2021 11:15:38 Asia/Taipei] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 11:15:38 Asia/Taipei] PHP Warning:  file_get_contents(https://api.line.me/v2/bot/message/reply): failed to open stream: no suitable wrapper could be found in /home/hipowerc/public_html/linebot/LINEBotTiny.php on line 112
+[06-Jan-2021 11:15:38 Asia/Taipei] Request failed: 
+[06-Jan-2021 11:16:26 Asia/Taipei] Method not allowed
+[06-Jan-2021 11:18:08 Asia/Taipei] Method not allowed
+[06-Jan-2021 21:12:27 Asia/Taipei] Invalid signature value
+[06-Jan-2021 21:13:07 Asia/Taipei] Invalid signature value
+[07-Jan-2021 14:36:06 Asia/Taipei] Invalid signature value
+[07-Jan-2021 14:36:12 Asia/Taipei] Invalid signature value
+[07-Jan-2021 14:36:17 Asia/Taipei] Invalid signature value
+[16-Sep-2021 16:23:15 Asia/Taipei] Invalid signature value
+[16-Sep-2021 16:24:10 Asia/Taipei] Invalid signature value
